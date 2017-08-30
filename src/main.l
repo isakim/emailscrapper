@@ -17,5 +17,5 @@
 int main()
 {
   yylex();
-  return 0;
+  return 1;
 }
